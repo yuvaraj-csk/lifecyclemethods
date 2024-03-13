@@ -132,6 +132,10 @@ public class MainActivity extends AppCompatActivity {
 ![pause](https://github.com/yuvaraj-csk/lifecyclemethods/assets/134052574/095a5f31-f212-4f69-9c48-ab755ebaeefc)
 ![stop](https://github.com/yuvaraj-csk/lifecyclemethods/assets/134052574/eae72721-5451-4b5e-bb72-45495fa5dfe0)
 ![restart](https://github.com/yuvaraj-csk/lifecyclemethods/assets/134052574/51f08992-cb0e-49bf-8f73-569dc3fcb4f8)
+
+
+
+
 ![exp-1-in-mad](https://github.com/yuvaraj-csk/lifecyclemethods/assets/134052574/cd4f1f76-1855-475f-aa68-650983f57817)
 
 
